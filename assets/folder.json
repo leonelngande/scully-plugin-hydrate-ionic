@@ -1,0 +1,20 @@
+[
+  {
+    "id": "Inbox"
+  },
+  {
+    "id": "Outbox"
+  },
+  {
+    "id": "Favorites"
+  },
+  {
+    "id": "Archived"
+  },
+  {
+    "id": "Trash"
+  },
+  {
+    "id": "Spam"
+  }
+]
