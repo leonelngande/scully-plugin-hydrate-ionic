@@ -32,5 +32,4 @@ npm run scully:serve
 ```
 
 ## Demo
-- [Online demo](https://q-and-a-ionic-tutorial.web.app)
-- [Video preview](https://youtu.be/xj3Znnd4Evs)
+- [Online demo](https://leonelngande.github.io/scully-plugin-hydrate-ionic/)

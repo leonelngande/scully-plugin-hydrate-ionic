@@ -11,7 +11,9 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "scully": "scully",
-    "scully:serve": "scully serve"
+    "scully:serve": "scully serve",
+    "build:static:github": "ng build --prod --base-href https://leonelngande.github.io/scully-plugin-hydrate-ionic/ && npm run scully",
+    "deploy:static:github": "ngh --dir=dist/static"
   },
   "private": true,
   "dependencies": {
