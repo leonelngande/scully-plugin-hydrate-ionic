@@ -21,6 +21,16 @@ npm run start
 
 ## Prerender the Ionic app
 
+Scully needs to fetch data for use in populating the dynamic route `/folder/:id`. This data can be found in the json file `folder.json` inside `src/assets`.
+
+So we first serve the application to make available a local server for use in fetching the above file.
+
+
+```sh
+npm run start
+```
+
+Now we run the Scully build.
 ```sh
 npm run scully
 ```
